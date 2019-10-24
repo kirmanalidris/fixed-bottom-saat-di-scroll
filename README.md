@@ -4,4 +4,4 @@ Javascript ini dibuat untuk membuat nav atau yang elment lainnya fixed top posit
 
 Dan gunakan rawcdn di bawah ini untuk memanggil script tersebut
 
-https://raw.githack.com/kirmanalidris/fixed-bottom-saat-di-scroll/master/fixed-top-saat-di-secroll.js
+https://raw.githack.com/kirmanalidris/fixed-bottom-saat-di-scroll/master/fixed-bottom-saat-di-secroll.js
